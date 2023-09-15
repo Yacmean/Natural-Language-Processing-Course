@@ -1,1 +1,1 @@
-# Natural-Language-Processing-Course
+In this work, the goal is to present a sentimental analysis on a Twitter data set. The combination of several machine learning classifiers (support vector machine, multi-layer perceptron, XGBoost) and word embedding methods (token2vec, fastText, word2vec, GloVe, and BERT-based techniques) are compared based on recall and f1-score evaluation metrics. This project shows that the combination of BERT-based techniques with the classifiers outperforms the other combinations.
